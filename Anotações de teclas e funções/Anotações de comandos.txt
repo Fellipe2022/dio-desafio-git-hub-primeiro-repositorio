@@ -1,0 +1,9 @@
+Teclas de comando Terminal Windows:
+Dir: listar diretórios em pastas
+CD/: Navegar nas pastas
+CD Windows: entrar dentro das pasta windows
+ctr l: limpar tela do terminal
+CD..:Voltar para o diretório C
+TAB: função de autocompletar
+MKDIR: funçao para  criar pasta
+RMDIR: Remover Repositórios.
